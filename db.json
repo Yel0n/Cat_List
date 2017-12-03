@@ -1,0 +1,47 @@
+
+{
+  "cats": [
+    {
+      "id": 1,
+      "category": "male",
+      "age": "4",
+      "likesKids": true,
+      "name": "Fidel Catstro"
+    },
+    {
+      "id": 2,
+      "category": "male",
+      "age": "9",
+      "likesKids": true,
+      "name": "Hairy Potter"
+    },
+    {
+      "id": 3,
+      "category": "male",
+      "age": "2",
+      "likesKids": false,
+      "name": "Grumpy"
+    },
+    {
+      "id": 4,
+      "category": "female",
+      "age": "1",
+      "likesKids": true,
+      "name": "Jude Paw"
+    },
+    {
+      "id": 5,
+      "category": "female",
+      "age": "2",
+      "likesKids": false,
+      "name": "Lucifurr"
+    },
+    {
+      "id": 6,
+      "category": "female",
+      "age": "3",
+      "likesKids": true,
+      "name": "Meowly Cyrus"
+    }
+  ]
+}
